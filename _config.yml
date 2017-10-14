@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+redirect_to:
+  - https://resume.github.io/?rahuljanagouda
+plugins:
+  - jekyll-redirect-from
