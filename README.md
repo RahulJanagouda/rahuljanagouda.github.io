@@ -1,2 +1,2 @@
-# rahuljanagouda.github.io-
-GithubPages
+redirect_to:
+  - https://resume.github.io/?rahuljanagouda
